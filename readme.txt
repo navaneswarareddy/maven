@@ -1,2 +1,2 @@
 This is Maven project
-Second stage
+Second stage commit
